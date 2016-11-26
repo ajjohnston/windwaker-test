@@ -1,0 +1,22 @@
+{
+    "extends": "standard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "rules": {
+        "semi": 2,
+        "arrow-parens": 2,
+        "prefer-arrow-callback": 2,
+        "object-curly-spacing":  ["error", "always"]
+    },
+    "globals": {
+      "THREE": true,
+      "requestAnimationFrame": true,
+      "clock": true
+    }
+}
