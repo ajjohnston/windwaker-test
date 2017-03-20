@@ -1,4 +1,4 @@
-#Wind Waker WebGL Test
+# Wind Waker WebGL Test
 
 You can reach the demo [here](https://ajjohnston.github.io/windwaker-test/public/).
 
